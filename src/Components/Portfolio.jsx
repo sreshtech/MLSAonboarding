@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/robo.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "small robot on a table";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "RANDOM QUOTE MACHINE 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "generates quotes.",
+    url: "https://github.com/sreshtech/sreshta_drum_machine.github.io",
   },
   {
-    title: "Web Development for Beginners",
+    title: "DRUM MACHINE",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "music system using keys.",
+    url: "https://github.com/sreshtech/sreshta_drum_machine.github.io",
   },
   {
-    title: "My Resume Site",
+    title: "My portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://sreshtech.github.io/portfolio.github.io/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "weather app",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "inform about the weather.",
+    url: "https://sreshtech.github.io/weather.github.io/",
   },
 ];
 
